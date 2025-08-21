@@ -16,3 +16,14 @@ if __name__ == "__main__":
     hello_world()
     result = add_numbers(5, 3)
     print(f"5 + 3 = {result}")
+
+def new_feature():
+    """A new feature added in dev branch"""
+    print("This is a new feature in development!")
+    return "Feature complete"
+
+if __name__ == "__main__":
+    hello_world()
+    result = add_numbers(5, 3)
+    print(f"5 + 3 = {result}")
+    new_feature()

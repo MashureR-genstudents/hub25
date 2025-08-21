@@ -9,3 +9,6 @@ Run the main Python script:
 ```bash
 python main.py
 ```
+
+## Development
+Currently working on new features in the dev branch.
